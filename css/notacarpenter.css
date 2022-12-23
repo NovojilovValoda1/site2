@@ -1,0 +1,32 @@
+@import url('https:fonts.googleapis.com/css?family=Poppins:400,500,700');
+body, html {
+  max-width: 1200px;
+  max-height: 575px;
+  font-family: 'Poppins', sans-serif;
+  color: #222;
+}
+.timepicker{
+    position: absolute;
+    top: 60px;
+    left: 80px;
+  }
+  .btn {
+    margin-right: 5px;
+  }
+  .first{
+    text-align: center;
+    
+  }
+  .lead{
+    text-align: center;
+    color: #6c757d;
+  }
+  .text1{
+    color: #6c757d;
+  }
+  .text2{
+    color: #6c757d;
+  }
+  .text3{
+    color: #6c757d;
+  }
